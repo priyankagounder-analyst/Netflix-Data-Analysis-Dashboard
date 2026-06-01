@@ -79,7 +79,3 @@ An interactive Netflix Data Analysis Dashboard built using Python and Streamlit 
 * Dashboard Development
 * Streamlit Application Development
 * Analytical Thinking
-
-## 👩‍💻 Author
-
-**Priyanka Gounder**
